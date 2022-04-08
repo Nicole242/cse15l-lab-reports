@@ -7,10 +7,12 @@
 ## Second Heading
 
 Down below is the link to lab2:
+
 [Link](https://docs.google.com/document/d/1Nw6gdehL-BzqjeVV1jzi_Ni4cdpx2uquLztLGTdzUdU/edit)
 
 Down below is the link to an image:
-[Image](https://pixabay.com/images/search/pencil/)
+
+![Image](https://pixabay.com/images/search/pencil/)
 > RandomBlockquote
 * ListItem1
 * ListItem2
@@ -27,3 +29,6 @@ Horizontal Rule example:
 example1
 example2
 ```
+Here is the link to Lab Report 1:
+[Lab Report 1](lab-report-1-week-2.html)
+
