@@ -1,5 +1,4 @@
-*Title*
-**Bolded words**
+
 # New Heading 
 ## Second Heading
 Down below is the link to lab2:
