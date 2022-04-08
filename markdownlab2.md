@@ -1,7 +1,7 @@
 *Title*
 **Bolded words**
-#New Heading 
-##Second Heading
+# New Heading 
+## Second Heading
 Down below is the link to lab2:
 [Link](https://github.com/Nicole242/cse15l-lab-reports/new/main)
 Down below is the link to an image:
