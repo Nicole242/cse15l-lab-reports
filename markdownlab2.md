@@ -3,7 +3,7 @@
 # New Heading 
 ## Second Heading
 Down below is the link to lab2:
-[Link](https://github.com/Nicole242/cse15l-lab-reports/new/main)
+[Link](https://docs.google.com/document/d/1Nw6gdehL-BzqjeVV1jzi_Ni4cdpx2uquLztLGTdzUdU/edit)
 Down below is the link to an image:
 [Image](https://pixabay.com/images/search/pencil/)
 > RandomBlockquote
