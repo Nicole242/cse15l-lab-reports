@@ -23,7 +23,7 @@ First I created a file called WhereAmI.java and opened up my terminal to run the
 ## Setting an SSH Key
 ![Image](SSHKey.png)
 ![Image](SSHKey2.png)
-I was not successfully able to create an ssh key, but I was able to save my indentification in /Users/<user-name>/.ssh/id_rsa.pub. I did this by typing in ssh-keygen and /Users/<user-name>/.ssh/id_rsa into my terminal (user-name was replaced with my username). 
+I was not successfully able to create an ssh key, but I was able to save my indentification in /Users/user-name/.ssh/id_rsa.pub. I did this by typing in ssh-keygen and /Users/user-name/.ssh/id_rsa into my terminal (user-name was replaced with my username). 
 
 ## Optimize Remote Running
 ![Image](Optimize.png)
