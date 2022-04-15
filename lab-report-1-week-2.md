@@ -5,7 +5,7 @@
 
 ![Image](VSCode.png)
 
-In order to install Visual Studio Code, I went to [link](https://code.visualstudio.com/download) and clicked download for Mac. I opened the application and made sure that it was working correctly. 
+In order to install Visual Studio Code, I went to [Visual Studio Code](https://code.visualstudio.com/download) and clicked download for Mac. I opened the application and made sure that it was working correctly. 
 
 
 ## Remotely Connecting: 
