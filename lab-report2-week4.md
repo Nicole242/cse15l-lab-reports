@@ -1,5 +1,3 @@
-
-
 # Lab Report 2
 [1]
 
@@ -7,4 +5,3 @@
 
 ![Image](Test2SS.png)
 
-![Image]()
