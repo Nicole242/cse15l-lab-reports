@@ -6,7 +6,7 @@
 ![Image](Test2SS.png)
 
 ![Image](Test2T.png)
-In this instance of failure, the error was caused by spacing in between each of the links This generated a parsing error.
+In this instance of failure, the error was caused by spacing in between each of the links. This generated a parsing error.
 
 
 
@@ -22,7 +22,7 @@ In this instance of failure, the error was caused by using brackets instead of p
 
 ![Image](Test4SS.png)
 ![Image](Test4T.png)
-In this instance of failure, the last line of code was a heading. This cause a parsing error to occur.
+In this instance of failure, the last line of code was a heading. This caused a parsing error to occur.
 
 
 
