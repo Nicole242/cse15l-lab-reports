@@ -6,7 +6,7 @@ This is my config file. I created it using the `touch config` command. It also c
 This is a screenshot of me logging into my `cs15lsp22` account. I did this using `ssh ieng6` with my ssh-key and config file.
 
 ![Image]( LR3Alias.png)
-This is a screenshot of me adding the file `HelloWorld.java` to my course account. I did this using the `scp` command and my alias `ieng6`.
+This is a screenshot of me adding the file `HelloWorld.java` to my course account. I did this using the `scp` command and my alias `ieng6`. (I chose to keep this as my alias)
 
 ![Image]()
 This is a screenshot of me copying the markdown-parse directory to my course account. I did this using the `scp -r` command.
