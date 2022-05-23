@@ -18,9 +18,9 @@ Here is my tests for the lab repository and my repository:
 
 For snippet 1-3, each of my tests failed. 
 
-Snippet 1: I think that for snippet 1 there is a code change that could be made.
+Snippet 1: I think that for snippet 1 there is a code change that could be made to make the test execute succesfully with backticks.
 
-Snippet 2: I do think that there is a code change that can be made.
+Snippet 2: I do think that there is a code change that can be made that can make my program work for nested parantheses and brackets.
 
 
-Snippet 3: I do think that there is a code change that can be made.
+Snippet 3: I do think that there is a code change that can be made that would make my program work for newlines in brackets and parentheses.
