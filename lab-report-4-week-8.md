@@ -10,7 +10,7 @@ Here is what my tests looked like for each repository:
 ![My Repository](MTTMP.png)
 
 
-Here is my tests for the lab repository and my repository:
+Here is my code for the lab repository and my repository:
 ![Lab Repository](ExMPVS.png)
 
 ![My Repository](MyMPVS.png)
