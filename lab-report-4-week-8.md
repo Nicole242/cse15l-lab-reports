@@ -75,9 +75,9 @@ My Repository:
 
 For snippet 1-3, each of my tests failed. 
 
-Snippet 1: I think that for snippet 1 there is a code change that could be made to make the test execute succesfully with backticks.
+Snippet 1: I think that for snippet 1 there is a code change that could be made to make the test execute succesfully with backticks. Since I already have my links as an ArrayList, I would need to change my filepath from the relative path `test5.md` to the path `/Users/nicolehernandez/Documents/GitHub/markdown-parser/test5.md`.
 
-Snippet 2: I do think that there is a code change that can be made that can make my program work for nested parantheses and brackets.
+Snippet 2: I do think that there is a code change that can be made that can make my program work for nested parantheses and brackets. Since I already have my links as an ArrayList, I would need to change my filepath from the relative path `test6.md` to the path `/Users/nicolehernandez/Documents/GitHub/markdown-parser/test6.md`.
 
 
-Snippet 3: I do think that there is a code change that can be made that would make my program work for newlines in brackets and parentheses.
+Snippet 3: I do think that there is a code change that can be made that would make my program work for newlines in brackets and parentheses. Since I already have my links as an ArrayList, I would need to change my filepath from the relative path `test7.md` to the path `/Users/nicolehernandez/Documents/GitHub/markdown-parser/test7.md`.
