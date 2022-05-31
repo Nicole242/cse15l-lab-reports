@@ -3,7 +3,7 @@
 
 [Link to my repository](https://github.com/Nicole242/markdown-parser)
 
-Here is the expected output for each snippet:
+## Here is the expected output for each snippet:
 
 Snippet 1:
 
@@ -52,7 +52,7 @@ And there's still some more text after that.
 
 
 
-## Outputs:
+## Test Outputs:
 
 Here is what my tests looked like for each repository:
 
