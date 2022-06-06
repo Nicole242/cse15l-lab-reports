@@ -2,7 +2,7 @@
 
 I used the command `vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt` to see the results of both the provided repository and my own. 
 
-The tests I am using are `521.md `and `504.md` which can be found in my `test-files` directory in each repository.
+The tests I am using are `521.md `and `504.md` which can be found in the `test-files` directory in each repository.
 
 521.md is incorrect for implementation and gives the correct output for the lab 9 implementation. 
 
